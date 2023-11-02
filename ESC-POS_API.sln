@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESC-POS_API", "ESC-POS_API\ESC-POS_API.csproj", "{833DABEC-FCB3-4331-B850-5D50B515473F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testPrinter", "testPrinter\testPrinter.csproj", "{C327353A-8843-4F21-AC32-D72DEE906E98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{833DABEC-FCB3-4331-B850-5D50B515473F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833DABEC-FCB3-4331-B850-5D50B515473F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833DABEC-FCB3-4331-B850-5D50B515473F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833DABEC-FCB3-4331-B850-5D50B515473F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C327353A-8843-4F21-AC32-D72DEE906E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C327353A-8843-4F21-AC32-D72DEE906E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C327353A-8843-4F21-AC32-D72DEE906E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C327353A-8843-4F21-AC32-D72DEE906E98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF437269-98EC-4F19-8A74-CB7E9CFEFBF0}
+	EndGlobalSection
+EndGlobal
